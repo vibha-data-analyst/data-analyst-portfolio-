@@ -1,6 +1,6 @@
 # Hi, I'm Vibha! 👋
 
-### Aspiring Data Analyst | MBA Student | Google Data Analytics Professional Certificate
+### Aspiring Data Analyst| Google Data Analytics Professional Certificate
 
 ## 👩‍💻 About Me
 
