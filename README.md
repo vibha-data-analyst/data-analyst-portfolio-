@@ -31,7 +31,7 @@ I'm continuously developing my technical and analytical skills through practical
 
 I work on practical data analytics projects focused on:
 
-- Sales and Revenue Analysis
+- Ecommerce Sales Analysis [view project](./01-Ecommerce-sales-alaysis)
 - Customer Behaviour Analysis
 - Business Performance Analysis
 - Data-Driven Decision Making
