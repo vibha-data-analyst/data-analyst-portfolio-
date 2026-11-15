@@ -165,7 +165,7 @@ The findings and recommendations can help businesses better understand their cus
 
 11. Project Files
 
-- [view Customer Behaviour Analysis Dashboard](./02-Customer-Shopping-Behaviour-Analysis/Customer Shopping Behaviour Analysis.pdf)
+- [view Customer Behaviour Analysis Dashboard](./Customer%20Shopping%20Behaviour%20Analysis%20.pdf)
 - Tableau Dashboard   
 - Project Documentation (README.md)
 
