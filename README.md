@@ -32,7 +32,7 @@ I'm continuously developing my technical and analytical skills through practical
 I work on practical data analytics projects focused on:
 
 - Ecommerce Sales Analysis [view project](./01-Ecommerce-sales-Analysis)
-- Customer Behaviour Analysis[view project](./Customer%20Shopping%20Behaviour%20Analysis%20.pdf)
+- Customer Behaviour Analysis[view project](./02-Custommer-Shopping-Behaviour-Analysis)
 - Business Performance Analysis
 - Data-Driven Decision Making
 
