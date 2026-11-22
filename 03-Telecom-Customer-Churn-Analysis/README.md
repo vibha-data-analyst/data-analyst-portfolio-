@@ -60,7 +60,7 @@ The company can use these insights to improve customer retention strategies, und
 ## Dashboard
 
 The Tableau dashboard is available in the file below:
-View Telecom Customer Churn Dashboard(./03-Telecom-Customer-Churn-Analysis/Dashboard 1.pdf)
+[view Telecom Customer Churn Analysis Dashboard](./Dashboard.pdf)
 
 
 ## Project Type
